@@ -1,0 +1,22 @@
+h1{text-align: center;
+    color:white;
+font-style: normal;
+font-size: 50px;
+border: 100px;
+padding: 100px;
+background-image: url(https://static.wixstatic.com/media/c8e24e_8734146da4f241b591e5f0ede582f9e0~mv2.jpg/v1/fill/w_640,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Kerala-tourism.jpg);
+}
+p{
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    list-style-type: lower-roman;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
